@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**EduardoCeolin/EduardoCeolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a test, I need to elaborate a text for this.
 
 Here are some ideas to get you started:
 
